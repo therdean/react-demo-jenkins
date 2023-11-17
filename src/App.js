@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <p>
-        IWConnect Demo Node.js Application test
+        IWConnect Demo Node.js Application
       </p>
     </div>
   );
